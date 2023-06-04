@@ -1,0 +1,47 @@
+body {
+    background-color:rgb(189, 227, 227);
+}
+
+.header_div {
+    background-color:rgb(246, 246, 251);
+}
+
+.header_div h2{
+    font-weight: 400px;
+    font-family:'Raleway', sans-serif;
+}
+
+.header_div p{
+    font-family:'Montserrat', sans-serif;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+.main_div{
+    background-color:rgb(180, 230, 230)
+}
+
+.main_div button{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 30px;
+    width:auto;
+    font-weight:300;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+
+#label_result_confidence, #label_result{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color:#6c757d;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
